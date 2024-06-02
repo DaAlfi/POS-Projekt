@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dnUlPMC4/U4Pn8FmZrFh/0+L+ekx3C2ckmIV0HMK0e+boX8dZfzKb6FdHioH1wqecZTCpuQg5XUI5Ie8vQO1pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brunh\\OneDrive\\Desktop\\API-Project-POS-main\\API-Project-POS-main\\ToDoAppAPI\\ToDoAppAPI\\ToDoAppAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brunh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
