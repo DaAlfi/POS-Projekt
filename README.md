@@ -82,11 +82,6 @@ Oder in Insomnia bzw. in Postman.<br>
 #### 2.1.2. MongoDB Atlas - Datenbank
 Für mein kleines Projekt habe ich mich für MongoDB als Datenbank entschieden. Da jedoch nicht gewollt ist, dass die Datenbank auf einem lokalen Gerät abgelegt ist, habe ich mich dazu entschieden MongoDB Atlas zu verwenden. Atlas bietet den großen Vorteil, dass meine Datenbank rund um die Uhr online ist und ich somit jeder Zeit Daten senden und empfangen kann.
 
-Damit sich der Client überhaupt zur Datenbank verbinden kann muss in der `application.properties`-Datei der SpringBoot-Anwendung folgende Zeile Code hinein:
-![image](./Images/37_img.png)
-`spring.data.mongodb.uri` benötigt die URL-von dem MonoDB Atlas Cluster. Diesen Link kann man einfach aus der GUI von Atlas kopieren.
-![image](./Images/33_img.png)
-
 So sieht die Datenbank in der Atlas-GUI aus. Ein Client kann diese Daten abfragen sowie auch bearbeiten und Löschen.
 ![image](./Images/34_img.png)
 
