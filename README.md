@@ -177,28 +177,3 @@ Im großen und ganzen muss man sagen, dass das Projekt eine sehr schöne Abwechs
 ![image](./Images/38_img.png)
 
 Natürlich könnte man diese gesamte Projekt noch um einiges weiter ausbauen. Beispielsweise könnte man noch andere HTTP-Methode implementieren, die WPF-App schöner gestalten oder die Web-App um sehr viele Sachen erweitern. Natürlich kann man mit den Technolgien, die hier verwendet wurden, sehr viel komplexere und kompliziertere Dinge umgesetzt werden. Jedoch genügt laut den verlangten Anforderungen ein trivialeres Beispiel, was auch gut so ist, denn somit bekommt man schon einmal ein Gefühl dafür, wie das Zusammenspiel der einzelnen Komponenten so funktioniert. Außerdem wurde uns in Sachen Server und Web-App einige Freiheit gewährt, deshalb habe ich mich dazu entschlossen React etwas genauer kennenzulernen und als Frontend-Framework einzusetzen. Eine weitere Vorgabe war es auch in Markdown zu kommentieren, am Anfang des Projekts war ich davon nicht so begeistert, doch je mehr ich das Projekt kommenterte, umso besser gefiel es mir Markdown zu verwenden. Zusammenfassend lässt sich jetzt noch sagen, dass die Umsetzung dieses Projekts ohne allzu großes Kopfzerbrechen erfolgreich durchgeführt wurde.
-
-
-##### Quellen:
-- [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
-- [Spring Boot Integration with MongoDB Tutorial](https://www.mongodb.com/compatibility/spring-boot)
-- [How to add an event handler using code - WPF .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/events/how-to-add-an-event-handler-using-code?view=netdesktop-7.0)
-- [Production-ready Features (spring.io)](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html)
-- [c# - Send HTTP POST request in .NET - Stack Overflow](https://stackoverflow.com/questions/4015324/send-http-post-request-in-net)
-- [HttpClient.PostAsync Methode (System.Net.Http) | Microsoft Learn](https://learn.microsoft.com/de-de/dotnet/api/system.net.http.httpclient.postasync?view=net-7.0)
-- [Make HTTP requests with the HttpClient - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/http/httpclient)
-- [StringContent Klasse (System.Net.Http) | Microsoft Learn](https://learn.microsoft.com/de-de/dotnet/api/system.net.http.stringcontent?view=net-7.0)
-- [c# - How do I set up HttpContent for my HttpClient PostAsync second parameter? - Stack Overflow](https://stackoverflow.com/questions/18971510/how-do-i-set-up-httpcontent-for-my-httpclient-postasync-second-parameter)
-- [c# - How Do I refresh window in wpf? - Stack Overflow](https://stackoverflow.com/questions/4916521/how-do-i-refresh-window-in-wpf)
-- [How to connect Mongodb Atlas to Spring - Stack Overflow](https://stackoverflow.com/questions/60398285/how-to-connect-mongodb-atlas-to-spring)
-- [How to display a message box - WPF .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/windows/how-to-open-message-box?view=netdesktop-7.0)
-- [How does one change title bar image in WPF Window? - Stack Overflow](https://stackoverflow.com/questions/5101895/how-does-one-change-title-bar-image-in-wpf-window)
-- [Source von Image wird nicht gefunden | myCSharp.de](https://mycsharp.de/forum/threads/78838/source-von-image-wird-nicht-gefunden)
-- [Spring Boot Actuator — External API Health Checks Integration | by Anji… | TechMonks | Medium](https://medium.com/techmonks/spring-boot-actuator-external-api-health-checks-integration-52e323a8d14c)
-- [Sorting in React JS - Owlcation](https://owlcation.com/stem/creating-a-sortable-list-in-react-js)
-- [Spring Boot](https://spring.io/projects/spring-boot)
-- [React Hooks (w3schools.com)](https://www.w3schools.com/react/react_hooks.asp)
-- [Asynchrone Programmierung – C# | Microsoft Learn](https://learn.microsoft.com/de-de/dotnet/csharp/asynchronous-programming/async-scenarios)
-- [Bootstrap · The most popular HTML, CSS, and JS library in the world. (getbootstrap.com)](https://getbootstrap.com/)
-- [List group · Bootstrap v5.3 (getbootstrap.com)](https://getbootstrap.com/docs/5.3/components/list-group/)
-- [Accordion · Bootstrap v5.3 (getbootstrap.com)](https://getbootstrap.com/docs/5.3/components/accordion/)
